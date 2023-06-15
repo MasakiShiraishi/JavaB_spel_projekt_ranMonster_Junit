@@ -1,0 +1,13 @@
+
+Players Level Log
+Players Current Level 4
+--------------------------
+
+Players Weapon Log
+Players weapon  Axe
+--------------------------
+
+You had beat 4 monsters.
+--------------------------
+Thank you for playing this game!
+Have a nice day.
